@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GetStartedPrinter</string>
+    <string name="pr_visualiza_o">Pré-visualização</string>
+    <string name="imprimir_comprovante">IMPRIMIR COMPROVANTE</string>
+    <string name="todo">TODO</string>
+    <string name="cielo">CIELO</string>
+    <string name="via_do_cliente">VIA DO CLIENTE</string>
+    <string name="cancelamento">CANCELAMENTO</string>
+    <string name="data_hora_do_cancelamento_18_03_2020_15_21">DATA/HORA DO CANCELAMENTO: 18/03/2020 - 15:21</string>
+    <string name="mastercard_5303">MASTERCARD - *****5303</string>
+    <string name="jorge_fabio_junior">JORGE FABIO JUNIOR</string>
+    <string name="valor">VALOR</string>
+    <string name="serial_68889271_2_0">SERIAL: 68889271|2.0</string>
+    <string name="aut_2up8iq">AUT: 2UP8IQ</string>
+    <string name="r_100_00">R$ 100,00</string>
+    <string name="cnpj_69_034_668_001_56">CNPJ: 69.034.668/001-56</string>
+    <string name="itbam_transire">ITBAM TRANSIRE</string>
+</resources>
